@@ -20,5 +20,5 @@ Reich studies why families interact in different ways with healthcare and welfar
 Salmon is an expert specializing in research concerning epidemiology and public health policy. He could help describe the potential impacts and dangers of low vaccine rates.
 
 ### Data Visualization:
-[![Kindergarten MMR Vaccines in 2000](/mmr-2000.png)](https://datawrapper.dwcdn.net/9paZC/1/)
+[![Kindergarten MMR Vaccines in 2000](/fixed-mmr-2000.png)](https://datawrapper.dwcdn.net/9paZC/1/)
 [![Kindergarten MMR Vaccines in 2013](/mmr-2013.png)](https://datawrapper.dwcdn.net/Jc9tr/1/)
