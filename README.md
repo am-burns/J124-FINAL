@@ -1,9 +1,8 @@
-# Kindergarten Vaccine Rates
-## 
+# Kindergarten Vaccine Rates Project
 
-Between 2000 and 2013, 86.21% of California counties saw an decrease in the percent of kindergarten students who had received a measles, mumps, and rubella (MMR) vaccine. In both years, the northern part of the state, covering counties including Lassen, Trinity, and Nevada, had the lowest rates of MMR-vaccinated kindergarteners. For this project, 2013 was the most recent year I used because there was incomplete data in all subsequent years.
+Between 2000 and 2013, 86.21% of California counties saw a decrease in the percent of kindergarten students who had received a measles, mumps, and rubella (MMR) vaccine. In both 2000 and in 2013, the northern part of the state, covering counties including Lassen, Trinity, and Nevada, had the lowest rates of MMR-vaccinated kindergarteners. For this project, 2013 was the most recent year I used because there was incomplete data in all subsequent years.
 
-This story would look at why this specific region has been so vaccine-averse. I would look at COVID-19 vaccine data to see whether adults also are experiencing low rates, to try to understand if this is an issue of general distrust in vaccines. I would also look into how California's [2015 vaccine law](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160SB277), that eliminated personal beliefs exemptions (PBE), has changed the percentage of students vaccinated, and see if any lessons could be learned from that for current vaccination issues.
+This story would look at why this specific region has been so vaccine-averse. I would look at COVID-19 vaccine data to see whether adults also are experiencing low rates, to try to understand if this is an issue of general distrust in vaccines. I would also look into how California's [2015 vaccine law](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160SB277) that eliminated personal beliefs exemptions (PBE) has changed the percentage of students vaccinated, and see if any policy lessons could be learned from that for current vaccination issues, in particular low COVID-19 vaccination rates.
 
 ### Contacts
 
