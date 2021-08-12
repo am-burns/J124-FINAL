@@ -53,12 +53,12 @@ This peer-reviewed paper analyzes the impact of non-medical exemptions (NME), in
     8.   ***We find that 86.21% of counties had a decrease in MMR vaccination rates***
 5.  Which counties had the lowest MMR rates in 2000?
     1.  Take the sheet we created to answer the last question
-    2.  Apply a filter, and filter the **PCT_2000** column in ascending order
+    2.  Apply a filter, and sort the **PCT_2000** column in ascending order
         ![MMR Sheet Filter 2000](/MMR_FILTER_2000.png)
     4.  The three counties with the lowest rates are ***Sierra, Tuolumne, and Nevada***
 7.  Which counties had the lowest MMR rates in 2013?
     1.  Take the MMR vaccine rate sheet
-    2.  Apply a filter, and filter the **PCT_2013** column in ascending order
+    2.  Apply a filter, and sort the **PCT_2013** column in ascending order
         ![MMR Sheet Filter 2013](/MMR_FILTER_2013.png)
     4.  The three counties with the lowest rates are ***Nevada, Trinity, and Humboldt***
 9.  Were rates lower for some vaccines than for others between 2000-2013?
